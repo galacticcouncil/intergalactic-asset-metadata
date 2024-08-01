@@ -2,6 +2,7 @@
   "assets": {
     "external": {
       "whitelist": {
+        "BEEFY": "1000036",
         "BNDT": "1000091",
         "BORK": "1000148",
         "KOL": "1000199",
