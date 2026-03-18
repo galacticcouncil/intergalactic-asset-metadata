@@ -11,6 +11,9 @@
         "WUD": "1000085",
         "BUNS": "1000177"
       }
+    },
+    "xcscanAssetUrnMap": {
+      "urn:ocn:solana:101|j1toso1uck3rlmjorhttrvwy9hj7x8v9yyac6y7kgcpn": "urn:ocn:solana:101|J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn"
     }
   }
 }
