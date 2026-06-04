@@ -13,7 +13,8 @@
       }
     },
     "xcscanAssetUrnMap": {
-      "urn:ocn:solana:101|j1toso1uck3rlmjorhttrvwy9hj7x8v9yyac6y7kgcpn": "urn:ocn:solana:101|J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn"
+      "urn:ocn:solana:101|j1toso1uck3rlmjorhttrvwy9hj7x8v9yyac6y7kgcpn": "urn:ocn:solana:101|J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+      "urn:ocn:solana:101|3b8x44flf9ooxaum3hhsgjpmvs6rzz3ppogngahc3uu7": "urn:ocn:solana:101|3b8X44fLF9ooXaUm3hhSgjpmVs6rZZ3pPoGnGahc3Uu7"
     }
   }
 }
