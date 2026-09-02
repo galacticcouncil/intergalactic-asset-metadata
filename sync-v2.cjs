@@ -1,6 +1,14 @@
 const fs = require("fs");
 
-const SUPPORTED_NETWORKS = ["polkadot", "ethereum", "solana", "kusama", "sui"];
+const SUPPORTED_NETWORKS = [
+  "polkadot",
+  "ethereum",
+  "solana",
+  "kusama",
+  "sui",
+  "near",
+  "zcash",
+];
 const TEMPLATE = {
   baseUrl: "https://raw.githubusercontent.com",
   branch: "master",
