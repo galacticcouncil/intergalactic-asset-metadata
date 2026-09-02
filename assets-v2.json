@@ -31,6 +31,7 @@
     "ethereum/8453/assets/0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42/icon.svg",
     "kusama/0/assets/0/icon.svg",
     "kusama/1000/assets/0/icon.svg",
+    "near/near/assets/NEAR/icon.svg",
     "polkadot/0/assets/0/icon.svg",
     "polkadot/1000/assets/0/icon.svg",
     "polkadot/1000/assets/1024/icon.svg",
@@ -405,6 +406,7 @@
     "solana/101/assets/J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn/icon.svg",
     "solana/101/assets/SOL/icon.svg",
     "sui/0x35834a8a/assets/0x9258181f5ceac8dbffb7030890243caed69a9599d2886d957a9cb7656af3bdb3/icon.svg",
-    "sui/0x35834a8a/assets/SUI/icon.svg"
+    "sui/0x35834a8a/assets/SUI/icon.svg",
+    "zcash/zec/assets/ZEC/icon.svg"
   ]
 }

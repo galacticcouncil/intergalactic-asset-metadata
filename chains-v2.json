@@ -12,6 +12,7 @@
     "ethereum/8453/icon.png",
     "kusama/0/icon.svg",
     "kusama/1000/icon.svg",
+    "near/near/icon.svg",
     "polkadot/0/icon.svg",
     "polkadot/1000/icon.svg",
     "polkadot/2000/icon.svg",
@@ -36,6 +37,7 @@
     "polkadot/3369/icon.svg",
     "polkadot/3370/icon.svg",
     "solana/101/icon.svg",
-    "sui/0x35834a8a/icon.svg"
+    "sui/0x35834a8a/icon.svg",
+    "zcash/zec/icon.svg"
   ]
 }
